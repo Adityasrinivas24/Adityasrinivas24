@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Aditya, an ECE Undergraduate interested in Embedded software development, Deep learning, FPGA prototyping. 
+I'm Aditya, an ECE Undergraduate interested in software development, deep learning and computer vision. 
 <!--
 **Adityasrinivas24/Adityasrinivas24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
